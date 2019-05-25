@@ -1,0 +1,169 @@
+.top-banner {
+    background-color: #333;
+    height: 50px;
+    width: 100%;
+}
+
+.logo {
+    color: #FFF;
+}
+
+.logo:hover {
+    text-decoration: none;
+    color: #FFF;
+    background-color: #222;
+}
+
+.profile, .shopping {
+    float: right;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.profile, .shopping {
+    padding-top: 10px;
+}
+
+.profile:hover, .shopping:hover {
+    background-color: #222;
+}
+
+.top-nav {
+    height: 10%;
+    background-color: #222;
+}
+
+.top-nav-items {
+    display: table;
+    margin: 0 auto;
+}
+
+.top-nav ul {
+    list-style-type: none;
+    
+}
+
+.list-item {
+    margin-left: 40px;
+    padding: 5px 5px 5px 5px;
+}
+
+.product {
+    color: #FFF;
+}
+
+
+.product:hover {
+    text-decoration:none;
+    color: #777;
+}
+
+.product:active {
+    text-decoration:none;
+    color:#FFF;
+}
+
+.nav-align {
+    padding-left: 0px;
+}
+
+
+.new-products {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.new-products .row{
+    margin-bottom: 40px;
+}
+
+.pricing {
+background-color: #222;
+height: 30px;
+color: #fff;
+padding-top: 5px;
+}
+
+.body-banner-title {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #FFF;
+    padding-top: 30px;
+}
+
+.body-banner {
+    background-color: #222;
+    height: 100px;
+}
+
+footer {
+    background-color: #333;
+    color: #FFF;
+
+}
+
+.main-footer ul {
+    list-style-type: none;
+    padding-left: 0px;
+    padding-bottom: 10px;
+}
+
+
+.secondary-footer {
+    color: #666;
+    text-align: center;
+    background-color: #222;
+    font-size: 12px;
+    padding-top: 15px;
+}
+
+footer a:hover {
+    text-decoration:none;
+    color: #777;
+}
+
+footer a:active {
+    text-decoration:none;
+    color: #777;
+}
+
+
+footer a {
+    color:#fff;
+}
+
+.product-overview {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.product-shot, .product-shot--modal {
+    height: 100%;
+    width: 50%;
+}
+
+.product-shot--modal {
+    margin-left: 90px;
+}
+
+.product-subtitle, .product-price, .product-stock, .product-overview--title {
+    font-weight: 700;
+}
+
+.product-price {
+    font-size: 32px;
+}
+
+.product-stock {
+    color: green;
+    font-size: 22px;
+}
+
+.basket-button {
+    margin-top: 20px;
+}
+
+.basket-button--modal {
+    margin-top: 30px;
+}
